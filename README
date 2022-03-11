@@ -1,0 +1,5 @@
+This is a simple calculator for limits, derivatives and integrals made in python.
+
+You need to know how to enter equations without missing parentheses or raising a value.
+
+The sympy library is required.
